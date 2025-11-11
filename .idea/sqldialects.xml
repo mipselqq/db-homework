@@ -4,6 +4,7 @@
     <file url="file://$PROJECT_DIR$/queries/create_database.sql" dialect="TSQL" />
     <file url="file://$PROJECT_DIR$/queries/create_tables.sql" dialect="TSQL" />
     <file url="file://$PROJECT_DIR$/queries/fill_tables.sql" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/queries/test.sql" dialect="TSQL" />
     <file url="PROJECT" dialect="TSQL" />
   </component>
 </project>
