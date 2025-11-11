@@ -2,14 +2,14 @@ USE HW;
 
 INSERT INTO Roles (RoleName) VALUES
 
-(N'ВодительN'),
-(N'КондукторN'),
-(N'МеханикN');
+(N'Водитель'),
+(N'Кондуктор'),
+(N'Механик');
 
 INSERT INTO BusStatuses (StatusName) VALUES
-(N'На линииN'),
-(N'В ремонтеN'),
-(N'СписанN');
+(N'На линии'),
+(N'В ремонте'),
+(N'Списан');
 
 INSERT INTO BusModels (ModelName, Manufacturer, SeatCount) VALUES
 (N'ПАЗ-3205', N'Павловский автобусный завод', 25),
